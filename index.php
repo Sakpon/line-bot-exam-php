@@ -21,11 +21,5 @@ _lt('send', 'pv', ['b4a7d799-cdb6-4551-8bae-78b2b9f44fda']);
        src="https://tr.line.me/tag.gif?c_t=lap&t_id=b4a7d799-cdb6-4551-8bae-78b2b9f44fda&e=pv&noscript=1" />
 </noscript>
 <!-- End LINE Tag Base Code -->
-<button type="test button" onclick="clickHandler()" >Click Me1!</button>
-<script>
-  function clickHandler(){
-_lt('send', 'cv', {
-  type: 'CustomEvent'
-},['b4a7d799-cdb6-4551-8bae-78b2b9f44fda']);}
-</script>
+
 ?>
